@@ -75,7 +75,6 @@ int main() // Main function.
     {
         printf("Welcome to Mastermind\n"); // Greeting Message.
         printf("Created by: Ryan Rostampour\n"); // Creator Name.
-        printf("110015057\n"); // Student ID.
 
 		printf("Enter the amount of digits:\n"); // Tells a message to the player asking to input amount of guesses.
 		scanf("%d", &LENGTHOFCODE); // Scans the input of the player.
